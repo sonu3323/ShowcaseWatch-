@@ -1,4 +1,4 @@
-# howcaseWatch-------
+# ShowcaseWatch-------
 
                                                               Preview...
 
